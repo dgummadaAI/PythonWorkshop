@@ -1,0 +1,9 @@
+python text2speech_V1.py "C:\Dheeraj\Python_Workspace\Reader\version1\read.txt"
+
+
+##########  Reading the PDF file from begging on wards
+python text2speech_V1.py "C:\Dheeraj\Python_Workspace\Reader\version1\Gr5_B_Learner_Eng.pdf"
+
+
+##########  Reading the PDF file from the page specified onwards
+python text2speech_V1.py "C:\Dheeraj\Python_Workspace\Reader\version1\Gr5_B_Learner_Eng.pdf" 26
